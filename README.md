@@ -1,5 +1,24 @@
 ![LinkedIn GPT - Automated job applications tailored to you.](img/github-banner.jpg)
 
+> [!IMPORTANT]
+> **I no longer recommend using this bot.** While it was helpful in the past, **resume optimization** is a significantly more effective strategy.
+>
+> **Why?** Although this bot proved successful in my job search, what created the most impact was actually having an ATS-friendly PDF. Before optimizing my resume, this bot resulted in very little "conversions" (less than 1% of applications resulted in an interview). By sheer amount of applications, that was still a lot of interviews, but I missed many opportunities where I fit the offer perfectly.
+>
+> **My learnings:** If you fit the job offer and your resume clearly reflects it, you *will* get interviews. It's that simple. But that usually means a tailored resume for each job, which is a lot of work (plus all the ATS formatting madness). Otherwise, you only hit interviews when your resume happens to match the job description by chance, like a broken clock being right twice a day.
+>
+> **The Solution:** This realization took me down a rabbit hole over the last two years. I started by helping friends with manual resume optimization, then added AI to the mix, and eventually built a lot of automation. I reached a point where I built a tool that takes your resume and a job description and gives you a tailored resume for that job—no other work needed. Yes, it fulfils the ATS requirements as well.
+>
+> **Open Beta:** The project grew from helping friends to helping friends-of-friends via a simple web app. Now, I'm opening it to everyone. It's completely free (I'm covering the LLM costs myself) because I want to see if I can help others with their job search, in the future if it grows I might charge for it, but right now I have no plans to as long as I can cover the costs myself without being a burden.
+>
+> You can join the beta at **[beta.theresume.monster](https://beta.theresume.monster)**. There is a waiting list to keep costs under control, but I will invite you as soon as possible (check your spam folder).
+>
+> **Feedback:** I'm open to feedback, as I say, I want to help, and it means learning and improving.
+>
+> **Legacy Support for LinkedIn GPT:** I'm going to merge all open branches and fixes for this bot in case you still want to use it, but I highly discourage it. [Use the resume optimizer instead](https://beta.theresume.monster), it's way more effective, requires no setup, and carries no risk of being banned from LinkedIn.
+
+----
+
 # LinkedIn GPT
 Automatically apply to _LinkedIn Easy Apply_ jobs. This bot answers the application questions as well!
 
